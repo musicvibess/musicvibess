@@ -1,0 +1,40 @@
+/* Fondo general celeste */
+body {
+  background-color: #87CEEB; /* azul celeste */
+  font-family: "Open Sans", sans-serif;
+  width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+
+/* Título principal */
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  color: #0d47a1; /* azul fuerte */
+  text-shadow: 3px 3px 1px #003366;
+}
+
+/* Texto del párrafo */
+p {
+  color: #083f7d; /* azul medio-oscuro */
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: 1.6;
+  text-align: justify;
+  margin-bottom: 20px;
+}
+
+/* Imagen centrada con estilo */
+img {
+  display: block;
+  margin: 20px auto;
+  width: 100%;
+  max-width: 500px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px #0d47a1;
+}
